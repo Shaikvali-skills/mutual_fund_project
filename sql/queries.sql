@@ -95,5 +95,4 @@ ORDER BY Total_lifetime_investment DESC;
 
 
 
-
-
+select nav, count(*) as Total from fact_nav;
