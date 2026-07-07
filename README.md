@@ -272,7 +272,7 @@ SQL scripts include:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/mutual_fund_project.git
+git clone https://github.com/Shaikvali-skills/mutual_fund_project.git
 ```
 
 ### Install Dependencies
