@@ -341,7 +341,9 @@ Data Analyst | Python | SQL | Power BI | Excel
 
 GitHub: https://github.com/Shaikvali-skills
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: *(www.linkedin.com/in/shaik-mohammad-vali-62b771256
+
+)*
 
 ---
 
